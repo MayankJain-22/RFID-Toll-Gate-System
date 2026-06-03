@@ -20,7 +20,7 @@ Vehicles are identified using RFID cards, toll charges are deducted automaticall
 
 | Users Table | Gate Entries | Transactions |
 |:-----------:|:------------:|:------------:|
-| ![Users](Images/users_table.png) | ![Entries](Images/gate_entries.png) | ![Transactions](Images/transactions.png) |
+| ![Users](Images/users_table.png) | ![Entries](Images/gate_enteries.png) | ![Transactions](Images/toll_transactions.png) |
 
 ---
 
