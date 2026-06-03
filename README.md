@@ -285,11 +285,6 @@ python Python/live_toll_transactions.py
 ---
 
 ## 🔄 Workflow
----
-| Hardware Setup |
-|:--------------:|
-| ![Workflow](Images/Workflow.png) |
----
 
 ```
 
