@@ -206,7 +206,7 @@ RFID-Toll-Gate-System/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RFID-Toll-Gate-System.git
+git clone https://github.com/MayankJain-22/RFID-Toll-Gate-System.git
 cd RFID-Toll-Gate-System
 ```
 
